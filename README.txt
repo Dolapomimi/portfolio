@@ -12,3 +12,6 @@
 - **Peoples Analytics** using coursera
 - **SQL** using sites like [HackerRank](https://www.hackerrank.com/) and [Stratascratch](https://www.stratascratch.com/). 
 - **Power Bi** 
+
+## WEBSITE
+Kindly check out my website to view my portfolio https://dolapomimi.github.io/portfolio/
