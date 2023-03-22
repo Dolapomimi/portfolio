@@ -14,4 +14,4 @@
 - **Power Bi** 
 
 ## WEBSITE
-Kindly check out my website to view my portfolio https://dolapomimi.github.io/portfolio/
+Kindly check out my website to view my portfolio [Dolapo's Website](https://dolapomimi.github.io/portfolio/)
